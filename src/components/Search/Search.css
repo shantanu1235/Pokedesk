@@ -1,0 +1,12 @@
+.serach{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-int{
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+}

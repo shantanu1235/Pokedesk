@@ -1,0 +1,8 @@
+.pokedesk{
+    display: flex;
+    flex-direction: column;
+    letter-spacing: 2px;
+    justify-content: center;
+    align-items: center ;
+    padding: 1rem;
+}
